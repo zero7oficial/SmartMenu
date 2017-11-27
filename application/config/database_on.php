@@ -66,7 +66,11 @@ $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
 	'username' => 'fenadoc',
+<<<<<<< HEAD
 	'password' => 'SenhaSeg#',
+=======
+	'password' => '',
+>>>>>>> 035fed38cfa92ffa242912f5ad466252f6df6141
 	'database' => 'fenadoce',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
