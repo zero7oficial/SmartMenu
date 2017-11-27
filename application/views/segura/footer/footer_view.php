@@ -14,13 +14,13 @@
 			<?php if ($usuarios == 1) { ?>
 
 				<a href="<?php echo base_url(); ?>index.php/administracao/caixa"><button class="btn btn-sm btn-warning">
-				CAIXA</button></a> 
-				<a href="<?php echo base_url(); ?>index.php/administracao/acompanhamentos"><button class="btn btn-sm btn-warning">
-				ACOMPANHAMENTOS</button></a> 
+				CAIXA</button></a>  
 				<a href="<?php echo base_url(); ?>index.php/administracao/cardapio"><button class="btn btn-sm btn-warning">
 				LANCHES</button></a> 
 				<a href="<?php echo base_url(); ?>index.php/administracao/bebidas"><button class="btn btn-sm btn-warning">
-				BEBIDAS</button></a> 
+				BEBIDAS</button></a>
+				<a href="<?php echo base_url(); ?>index.php/administracao/acompanhamentos"><button class="btn btn-sm btn-warning">
+				ACOMPANHAMENTOS</button></a> 
 				<a href="<?php echo base_url(); ?>index.php/administracao/pizzas"><button class="btn btn-sm btn-warning">
 				PIZZAS</button></a> 
 				<a href="<?php echo base_url(); ?>index.php/administracao/buffet"><button class="btn btn-sm btn-warning">
@@ -32,7 +32,7 @@
 			<?php }else {
 						echo '<div class="clearfix"> </div><br />';
 				}?>
-	  		<p>Painel de Administração desenvolvido por <b><a href="https://www.agencia07.com.br/">Agência Zero7</a></b> | <b>Menfis - Versão 1.0</b></p>
+	  		<p>Painel de Administração desenvolvido por <b><a href="https://www.agencia07.com.br/">Agência Zero7</a></b> | <b>SmartMenu - Versão: 1.0.0</b></p>
 	  	</div>
 	</div>
 	</body>  

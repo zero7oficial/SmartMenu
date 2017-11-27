@@ -1,17 +1,17 @@
 <?php 
 
 	/**
-	*  	MENFIS - MENU FISCAL - ZERO7
+	*  	SmartMenu - Menu Fiscal para Praças de Alimentação
 	* 
 	*	Sistema para gestão de praças de alimentação em eventos. 
 	*	Cardápio virtual, para fazer pedidos nas mesas, multiplataforma.
 	*  	Sistema de Pedido Pronto para exibição em TV, SMART TVS E PAINEIS DE LED
 	*
-	* @package		MENFIS 
+	* @package		SmartMenu 
 	* @version  	1.0
 	* @author   	Agência Zero7
 	* @copyright 	Copyright (c) 2017, Agência Zero7 - 17.254.945/0001-32
-	* @link 		http://menfis.agencia07.com.br/
+	* @link 		https://smartmenu.agencia07.com.br/
 	*
 	*
 	*/
