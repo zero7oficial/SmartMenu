@@ -1,0 +1,24 @@
+Pedido 
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+Valor R$ 0,00
+ 
+Prod: X-Burguer (Linha Sabores) | Qntd:1 
+ Obs.: 
+Valor R$ 5,00
+ 
+Prod: X-Burguer (Linha Sabores) | Qntd:1 
+ Obs.: 
+Valor R$ 5,00
+ 
+Prod: Fritas 500g | Qntd:1 
+ Obs.: 
+Valor R$ 12,00
+ 
+Prod: Refrit 2 Litros | Qntd:1 
+ Obs.: 
+Valor R$ 8,00
+ 
+VALOR TOTAL: 30,00
+TELE-ENTREGA 
+ 

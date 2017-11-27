@@ -1,0 +1,15 @@
+Hora do Fechamento: 16-11-2017 11:36:18
+TOTAL RECEBIDO: R$ 18,00
+Produtos 
+Ticket Visitante
+2
+X-Burguer (Linha Sabores)
+1
+Refri Mini
+1
+X-Salada
+1
+Ticket Médio: R$ 9,00
+Total em Dinheiro: R$ 18,00
+Total em Cartões: R$ 0,00
+Total em Vendas: R$ 18,00

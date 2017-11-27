@@ -1,0 +1,23 @@
+Hora do Fechamento: 18-11-2017 11:59:20
+TOTAL RECEBIDO: R$ 234,00
+Produtos 
+Ticket Visitante
+9
+X-Tudo
+8
+Cachorro Quente Completo
+5
+Cachorro Quente Simples
+4
+Combo Linha Sabores 1
+3
+Bauru Aberto
+1
+Cerveja Litrão
+1
+X-Salada
+1
+Ticket Médio: R$ 26,00
+Total em Dinheiro: R$ 234,00
+Total em Cartões: R$ 0,00
+Total em Vendas: R$ 234,00

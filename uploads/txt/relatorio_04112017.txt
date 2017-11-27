@@ -1,0 +1,32 @@
+Hora do Fechamento: 04-11-2017 12:02:46
+TOTAL RECEBIDO: R$ 0,00
+Produtos 
+Ticket Médio: R$ 0,00
+Total em Dinheiro: R$ 0,00
+Total em Cartões: R$ 0,00
+Total em Vendas: R$ 0,00
+Hora do Fechamento: 04-11-2017 11:59:30
+TOTAL RECEBIDO: R$ 126,00
+Produtos 
+Ticket Visitante
+8
+X-Burguer (Linha Sabores)
+5
+Cachorro Quente Completo
+4
+X-FiléBacon (Linha Sabores)
+3
+Fritas 50g (Linha Sabores)
+3
+Combo Linha Sabores 1
+2
+X-Salada
+2
+Torrada
+1
+Cachorro Quente Simples
+1
+Ticket Médio: R$ 15,75
+Total em Dinheiro: R$ 126,00
+Total em Cartões: R$ 0,00
+Total em Vendas: R$ 126,00

@@ -1,0 +1,24 @@
+Pedido 
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+Valor R$ 0,00
+ 
+Prod: Bauru Aberto | Qntd:1 
+ Obs.: 
+Valor R$ 40,00
+ 
+Prod: Combo Linha Sabores 1 | Qntd:1 
+ Obs.: 
+Valor R$ 10,00
+ 
+Prod: Combo Linha Sabores 1 | Qntd:1 
+ Obs.: 
+Valor R$ 10,00
+ 
+Prod: Combo Linha Sabores 1 | Qntd:1 
+ Obs.: 
+Valor R$ 10,00
+ 
+VALOR TOTAL: 70,00
+TELE-ENTREGA 
+ 

@@ -1,0 +1,21 @@
+Hora do Fechamento: 09-11-2017 11:02:52
+TOTAL RECEBIDO: R$ 89,00
+Produtos 
+Ticket Visitante
+6
+Combo Linha Sabores 1
+2
+Bauru Aberto
+1
+X-Tudo
+1
+X-Burguer (Linha Sabores)
+1
+Cachorro Quente Completo
+1
+X-FiléBacon (Linha Sabores)
+1
+Ticket Médio: R$ 14,83
+Total em Dinheiro: R$ 89,00
+Total em Cartões: R$ 0,00
+Total em Vendas: R$ 89,00

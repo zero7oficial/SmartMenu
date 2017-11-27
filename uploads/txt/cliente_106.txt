@@ -1,0 +1,20 @@
+Pedido 
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+Valor R$ 0,00
+ 
+Prod: Baurú | Qntd:1 
+ Obs.: 
+Valor R$ 15,00
+ 
+Prod: X-Coração | Qntd:1 
+ Obs.: 
+Valor R$ 12,00
+ 
+Prod: Refrigerante 2 Litros | Qntd:1 
+ Obs.: 
+Valor R$ 8,00
+ 
+VALOR TOTAL: 35,00
+TELE-ENTREGA 
+ 

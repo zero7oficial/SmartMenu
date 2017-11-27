@@ -1,0 +1,32 @@
+Pedido 
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+Valor R$ 0,00
+ 
+Prod: X-FiléBacon (Linha Sabores) | Qntd:1 
+ Obs.: 
+Valor R$ 6,00
+ 
+Prod: X-FiléBacon (Linha Sabores) | Qntd:1 
+ Obs.: 
+Valor R$ 6,00
+ 
+Prod: X-FiléBacon (Linha Sabores) | Qntd:1 
+ Obs.: 
+Valor R$ 6,00
+ 
+Prod: X-FiléBacon (Linha Sabores) | Qntd:1 
+ Obs.: 
+Valor R$ 6,00
+ 
+Prod: X-FiléBacon (Linha Sabores) | Qntd:1 
+ Obs.: 
+Valor R$ 6,00
+ 
+Prod: Refrigerante 2 Litros | Qntd:1 
+ Obs.: 
+Valor R$ 8,00
+ 
+VALOR TOTAL: 38,00
+TELE-ENTREGA 
+ 

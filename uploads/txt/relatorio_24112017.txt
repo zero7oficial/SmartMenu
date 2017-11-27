@@ -1,0 +1,27 @@
+Hora do Fechamento: 24-11-2017 11:43:51
+TOTAL RECEBIDO: R$ 200,00
+Produtos 
+Ticket Visitante
+21
+X-Tudo
+15
+Cachorro Quente Completo
+5
+Baurú
+2
+X-Coração
+2
+Refrigerante 2 Litros
+2
+Combo Linha Sabores 1
+1
+Cachorro Quente Simples
+1
+X-Calabresa
+1
+Desconto R$ 1,00
+1
+Ticket Médio: R$ 9,52
+Total em Dinheiro: R$ 200,00
+Total em Cartões: R$ 0,00
+Total em Vendas: R$ 200,00

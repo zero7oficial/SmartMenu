@@ -1,0 +1,12 @@
+Pedido 
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+Valor R$ 0,00
+ 
+Prod: Desconto R$ 1,00 | Qntd:30 
+ Obs.: 
+Valor R$ -30,00
+ 
+VALOR TOTAL: -30,00
+TELE-ENTREGA 
+ 

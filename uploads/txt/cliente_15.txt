@@ -1,0 +1,16 @@
+Pedido 
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+Valor R$ 0,00
+ 
+Prod: X-FiléBacon (Linha Sabores) | Qntd:1 
+ Obs.: 
+Valor R$ 6,00
+ 
+Prod: Cachorro Quente Completo | Qntd:1 
+ Obs.: 
+Valor R$ 6,00
+ 
+VALOR TOTAL: 12,00
+TELE-ENTREGA 
+ 

@@ -1,0 +1,20 @@
+Pedido 
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+Valor R$ 0,00
+ 
+Prod: Cachorro Quente Completo | Qntd:1 
+ Obs.: 
+Valor R$ 6,00
+ 
+Prod: Refrit 2 Litros | Qntd:1 
+ Obs.: 
+Valor R$ 7,00
+ 
+Prod: Desconto R$ 1,00 | Qntd:1 
+ Obs.: 
+Valor R$ -1,00
+ 
+VALOR TOTAL: 12,00
+TELE-ENTREGA 
+ 

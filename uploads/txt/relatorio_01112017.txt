@@ -1,0 +1,13 @@
+Hora do Fechamento: 01-11-2017 11:08:33
+TOTAL RECEBIDO: R$ 120,00
+Produtos 
+X-Tudo
+8
+Ticket Visitante
+7
+Cachorro Quente Completo
+4
+Ticket Médio: R$ 15,00
+Total em Dinheiro: R$ 120,00
+Total em Cartões: R$ 0,00
+Total em Vendas: R$ 120,00

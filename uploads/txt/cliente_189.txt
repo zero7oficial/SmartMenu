@@ -1,0 +1,24 @@
+Pedido 
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+Valor R$ 0,00
+ 
+Prod: Torrada | Qntd:1 
+ Obs.: 
+Valor R$ 8,00
+ 
+Prod: Torrada | Qntd:1 
+ Obs.: 
+Valor R$ 8,00
+ 
+Prod: Torrada | Qntd:1 
+ Obs.: 
+Valor R$ 8,00
+ 
+Prod: Torrada | Qntd:1 
+ Obs.: 
+Valor R$ 8,00
+ 
+VALOR TOTAL: 32,00
+TELE-ENTREGA 
+ 

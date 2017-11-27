@@ -1,0 +1,29 @@
+Hora do Fechamento: 11-11-2017 11:43:53
+TOTAL RECEBIDO: R$ 381,00
+Produtos 
+Ticket Visitante
+15
+X-Tudo
+11
+Combo Linha Sabores 1
+6
+Cachorro Quente Completo
+6
+X-Burguer (Linha Sabores)
+5
+X-FiléBacon (Linha Sabores)
+3
+Baurú
+3
+Fritas 200g
+1
+Refrit 2 Litros
+1
+X-Coração
+1
+Bauru Aberto
+1
+Ticket Médio: R$ 25,40
+Total em Dinheiro: R$ 347,00
+Total em Cartões: R$ 34,00
+Total em Vendas: R$ 381,00

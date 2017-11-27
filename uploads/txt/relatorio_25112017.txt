@@ -1,0 +1,25 @@
+Hora do Fechamento: 25-11-2017 12:12:32
+TOTAL RECEBIDO: R$ 343,00
+Produtos 
+Ticket Visitante
+18
+Baurú
+9
+X-Tudo
+9
+Cachorro Quente Simples
+4
+Cachorro Quente Completo
+3
+X-Coração
+3
+Torrada
+1
+Refrigerante 2 Litros
+1
+X-Salada
+1
+Ticket Médio: R$ 19,05
+Total em Dinheiro: R$ 343,00
+Total em Cartões: R$ 0,00
+Total em Vendas: R$ 343,00

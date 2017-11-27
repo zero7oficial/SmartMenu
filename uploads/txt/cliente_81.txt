@@ -1,0 +1,12 @@
+Pedido 
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+Valor R$ 0,00
+ 
+Prod: Baurú | Qntd:1 
+ Obs.: 
+Valor R$ 15,00
+ 
+VALOR TOTAL: 15,00
+TELE-ENTREGA 
+ 
