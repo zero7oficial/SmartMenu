@@ -1,0 +1,353 @@
+/*
+
+ARQUIVO STYLE.css
+
+Desenvolvido por Agência07 - Todos os direitos reservados
+
+*/
+html,body{height:100%;}
+
+.container {
+    height:100%;
+}
+
+.fill{
+    width:100%;
+    height:100%;
+    min-height:100%;
+    padding:10px;
+    color:#efefef;
+}
+
+
+/* Página Inicial */
+
+
+
+
+#cardapio {
+	color: #ffffff;
+	height: 100%;
+	margin-bottom: 3%;
+}
+
+#cabecalho {
+	background: #F27F04;
+}
+
+
+#footer	{
+	background: #40413e;
+	width: 100%;
+	float: left;
+}
+
+.fundo{
+
+	background: #F27F04 ;
+}
+
+.bg-titulo{
+
+	background: #3B2014;
+	color: #FFFFFF;
+}
+
+.shadow {
+	box-shadow: 2px 3px 8px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 1px 2px 6px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 1px 2px 6px rgba(0, 0, 0, 0.5);
+}
+
+
+hr.divisor {
+  border: 0;
+  margin-top: 15px;
+  height: 1px;
+  background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+  background-image: -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+  background-image: -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+  background-image: -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+}
+
+
+.copy_pc{
+	background: #604B9C;
+	color: #ffffff;
+	padding-left: 10%;
+	padding-bottom: 2%;
+	padding-top: 2%;
+	width: 100%;
+	float: left;
+}
+
+.copy{
+	background: #3B2014;
+	color: #ffffff;
+	padding-left: 10%;
+	padding-bottom: 2%;
+	padding-top: 2%;
+	width: 100%;
+	float: left;
+}
+
+.btn-ag-verde {
+  color: #ecf0f1;
+  background-color: #27ae60;
+  border-color: #2ecc71;
+}
+.btn-ag-verde:hover,
+.btn-ag-verde:focus,
+.btn-ag-verde.focus,
+.btn-ag-verde:active,
+.btn-ag-verde.active,
+.open > .dropdown-toggle.btn-ag-verde {
+  color: #ecf0f1;
+  background-color: #27ae60;
+  border-color: #2ecc71;
+}
+.btn-ag-verde:active,
+.btn-ag-verde.active,
+.open > .dropdown-toggle.btn-ag-verde {
+  background-image: none;
+}
+.btn-ag-verde.disabled,
+.btn-ag-verde[disabled],
+fieldset[disabled] .btn-ag-verde,
+.btn-ag-verde.disabled:hover,
+.btn-ag-verde[disabled]:hover,
+fieldset[disabled] .btn-ag-verde:hover,
+.btn-ag-verde.disabled:focus,
+.btn-ag-verde[disabled]:focus,
+fieldset[disabled] .btn-ag-verde:focus,
+.btn-ag-verde.disabled.focus,
+.btn-ag-verde[disabled].focus,
+fieldset[disabled] .btn-ag-verde.focus,
+.btn-ag-verde.disabled:active,
+.btn-ag-verde[disabled]:active,
+fieldset[disabled] .btn-ag-verde:active,
+.btn-ag-verde.disabled.active,
+.btn-ag-verde[disabled].active,
+fieldset[disabled] .btn-ag-verde.active {
+  background-color: #e74c3c;
+  border-color: #27ae60;
+}
+.btn-ag-verde .badge {
+  color: #ecf0f1;
+  background-color: #27ae60;
+}
+
+/* 
+	Painel de Controle Tema Costumização
+
+	@Versão 1.0
+	@Desenvolvedora Agência Zero7 LTDA
+	@Programador Rodrigo Domingues Franz
+	@Licensa A utilização em parte ou no todo deste código, sem autorização, está expressamente proibída.
+
+*/
+
+
+
+#topo {
+
+	background: #604B9C;
+	height: 50px;
+	color: #FFFFFF;
+	padding-top: 1%;
+	padding-left: 5%;
+}
+
+#sidebar_left{
+	width: 20%;
+	float: left;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+#sidebar_right{
+	width: 20%;
+	float: left;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
+#corpo{
+	width: 100%;
+	float: left;
+	padding: 2% 2% 2% 2%;
+}
+
+.titulo{
+	width: 50%;
+	float: left;
+	font-size: large;
+}
+.perfil{
+	width: 30%;
+	float: right;
+}
+
+.sist_login{
+
+	margin-right: 40%;
+	margin-left: 40%;
+}
+
+.publicidade{
+	padding-top: 2%;
+}
+
+.promobox{
+	width: 15%;
+	float: left;
+}
+
+.navegacao {
+	float: right;
+}
+
+#produto1{
+	padding-bottom: 2%;
+}
+.titcard{
+	font-weight: bold;
+    color: #3B2014;
+}
+.precard{
+	font-weight: bold;
+    color: #3B2014;
+   
+}
+.descard{
+	font-size: small;
+}
+
+.btn-pizza{
+
+	color: #fff;
+    background-color: #3B2014;
+    border-color: #3B2044;
+}
+
+.btn-pizza:hover{
+
+	color: #000;
+    background-color: #F27F04;
+    border-color: #3B2044;
+}
+
+.tamanho {
+	font-weight: bold;
+    color: #3B2014;
+}
+
+.valor{
+    color: #3B2014;
+}
+
+				/* Style da Avaliação */
+
+.barra{width:150px; height:30px; background:#ebebeb; position:relative;}
+.stars{position:absolute; left:0; top:0; width:100%;}
+.star{
+	float:left; 
+	width:30px; 
+	height:30px;
+	text-align:center; 
+	position:relative; 
+	cursor:pointer;
+}
+.star.full{background:linear-gradient(to bottom, #fee24f, #f4bb2f)}
+
+.bg{	
+	float:left;
+	height:30px; 
+	width:30%; 
+	background:linear-gradient(to bottom, #3B2014, #3B0014 );
+	background:-webkit-linear-gradient(to bottom, #3B2014, #3B0014 );
+}
+.starAbsolute{
+	position:absolute; 
+	top:0; 
+	left:0;
+	width:100%; 
+	height:100%; 
+	background:url(../uploads/starpng.png) top left no-repeat; 
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+	background-size:cover;
+}
+
+div.flex-align {
+  display: -webkit-flexbox;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  height: 100%;
+}
+
+.obrigado{
+
+	height: 100%;
+}
+
+.imagem_p{
+	max-height: 90px;
+}
+.panel-pizza {
+    border-color: #604B9C;
+}
+.panel-pizza > .panel-heading {
+    color: #FFFFFF;
+    background-color: #604B9C;
+    border-color: rgba(96, 75, 156, 0.57);
+}
+
+.btn-nao {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
+
+.btn-sim {
+    color: #fff;
+    background-color: #E23418;
+    border-color: #DA631E;
+}
+
+.btn{
+
+	margin-bottom: 3px;
+}
+
+.img-esquerda{
+	float: left;
+	margin-right: 1%;
+	margin-top: 1%;
+}
+
+.margin-cima{
+	margin-top: 1%;
+}
+
+.ui-loader-default{
+	display: none;
+}
+
+.clearfix() {
+  before,
+  after {
+    content: " ";
+    display: table;
+  }
+}
+
+.bloc-produto {
+	border:1px solid;
+	border-radius: 5px;
+}
