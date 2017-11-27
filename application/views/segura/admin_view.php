@@ -42,10 +42,9 @@
    				 		<p>O <b>Menfis</b> é um aplicação de gestão do setor gastronômico,desenvolvido para atender a demanda virtual em Eventos e praças de alimentação. </p>
    				 		<p>Dentro dela, o seu cliente poderá fazer pedidos, e gerar sua comanda de forma virtual, garantindo o sigilo e a segurança nas transações, feitas pelo aplicação.</p>
    				 		<h4>Sobre a versão e futuras atualizações</h4>
-   				 		<p>O <b>Menfis</b> está na versão 1.00.8 (20/abril/2017)</p>
-   				 		<p>Próxima versão 2.00.0 - Adicionaremos - Integração Fiscal (Agosto/2017)</p>
-   				 		<p>Próxima versão 2.10.0 - Adicionaremos - Pagamento via Cartão (Agosto/2017)</p>
-   				 		<p>Próxima versão 2.20.0 - Adicionaremos - Delivery App (Setembro/2017)</p>   				 	
+   				 		<p>Próxima versão 2.00.0 - Adicionaremos - Integração Fiscal (Agosto/2018)</p>
+   				 		<p>Próxima versão 2.10.0 - Adicionaremos - Pagamento via Cartão (Agosto/2018)</p>
+   				 		<p>Próxima versão 2.20.0 - Adicionaremos - Delivery App (Setembro/2018)</p>   				 	
    				 </div>
   			</div>
 		</div>
