@@ -1,0 +1,20 @@
+Pedido 
+Prod: Comanda Gerada | Qntd:1 
+ Obs.: 
+Valor R$ 0,00
+ 
+Prod: Fritas 50g (Linha Sabores) | Qntd:1 
+ Obs.: 
+Valor R$ 2,00
+ 
+Prod: X-FiléBacon (Linha Sabores) | Qntd:1 
+ Obs.: 
+Valor R$ 6,00
+ 
+Prod: Fritas 50g (Linha Sabores) | Qntd:1 
+ Obs.: 
+Valor R$ 2,00
+ 
+VALOR TOTAL: 10,00
+TELE-ENTREGA 
+ 

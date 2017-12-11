@@ -23,7 +23,7 @@ class Bebidas_model extends CI_Model {
 		parent::__Construct();
 	}
 
-	function inserir($titulo, $descricao, $preco, $qntd, $imagem)
+	function inserir($titulo, $descricao, $preco, $qntd, $custo, $imagem)
 	{
 		
 		$dados = array(
@@ -32,6 +32,7 @@ class Bebidas_model extends CI_Model {
 			'descricao'	=> $descricao,
 			'preco'		=> $preco,
 			'qntd'		=> $qntd,
+			'custo'		=> $custo,
 			'imagem'	=> $imagem
 			);
 

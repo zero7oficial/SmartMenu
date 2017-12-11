@@ -1,0 +1,10 @@
+PEDIDO RLX256
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+
+Prod: Baurú | Qntd:1 
+ Obs.: 
+
+Prod: Fritas 500g | Qntd:1 
+ Obs.: 
+

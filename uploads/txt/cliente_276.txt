@@ -1,0 +1,16 @@
+Pedido 
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+Valor R$ 0,00
+ 
+Prod: X-Coração | Qntd:1 
+ Obs.: 
+Valor R$ 12,00
+ 
+Prod: X-Coração | Qntd:1 
+ Obs.: 
+Valor R$ 12,00
+ 
+VALOR TOTAL: 24,00
+TELE-ENTREGA 
+ 

@@ -84,16 +84,16 @@
   			</div>
 		</div>
 		<div class="panel panel-primary">
-  		<div class="panel-heading">PRODUTOS EXTRAS (Material de Uso)</div>
+  		<div class="panel-heading">COMPRAS DO DIA</div>
   		<div class="panel-body">			
         		<?php echo form_open('administracao/produtos_form'); ?>
-				    <label for="titulo">Produto:</label>
+				    <label for="titulo">LOCAL:</label>
 				    	<input type="text" size="20" class="form-control" id="titulo" name="titulo"/>
 				        <br/>
-				    <label for="preco">Valor Custo:</label>
+				    <label for="preco">CUSTO:</label>
 				    	<input type="text" size="20" class="form-control" id="valor" name="preco"/>
 				        <br/>
-				     <label for="preco">Estoque:</label>
+				     <label for="preco">QNTD:</label>
 				    	<input type="text" size="20" class="form-control" id="qntd" name="qntd"/>
 				        <br/>
 				    <input  class="btn btn-primary" type="submit" value="Cadastrar"/>
@@ -102,20 +102,23 @@
   		</div>
 	</div>
 		<div class="panel panel-success">
-  			<div class="panel-heading">Produtos Extras Cadastrados</div>
+  			<div class="panel-heading">COMPRAS DO DIA</div>
   			<div class="panel-body">
    				<table class="table">
    				<tr>
 				<td>ID</td>
-				<td>Nome</td>
-				<td>Estoque</td>
-				<td>Edição</td>
+				<td>LOCAL/PRODUTO</td>
+				<td>N COMPRAS</td>
+				<td>TOTAL</td>
+				<td>OPÇÕES</td>
 				</tr>
 				<?php foreach ($produtos as $row) { ?>
 				<tr>
 				<td><?php echo $row->ID; ?></td>
 				<td><?php echo $row->titulo; ?></td>
 				<td><?php echo $row->qntd; ?></td>
+				<td><?php $this->load->helper("funcoes");
+				echo formata_preco($row->preco); ?></td>
 				<td><a href="<?php echo base_url(); ?>index.php/administracao/excluirProduto/<?php echo $row->ID ?>"><button type="button" class="btn btn-danger"><i class="fa fa-trash"></i></button></a> <a href="<?php echo base_url(); ?>index.php/administracao/editarProduto/<?php echo $row->ID ?>"><button type="button" class="btn btn-primary"><i class="fa fa-pencil-square-o"></i></button></a></td>
 				</tr>
 				<?php } ?>		 

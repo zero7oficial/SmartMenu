@@ -1,0 +1,33 @@
+Hora do Fechamento: 10-12-2017 11:37:54
+TOTAL RECEBIDO: R$ 241,95
+Produtos 
+Ticket Visitante
+18
+Cachorro Quente Completo
+10
+Sacole Diversos Sabores
+6
+X-FiléBacon (Linha Sabores)
+6
+Baurú
+4
+Cachorro Quente Simples
+4
+Picolé Torta De Morango
+1
+Combo Linha Sabores 1
+1
+X-Burguer (Linha Sabores)
+1
+X-Coração
+1
+X-Calabresa
+1
+X-Salada
+1
+Refrigerante 2 Litros
+1
+Ticket Médio: R$ 13,44
+Total em Dinheiro: R$ 241,95
+Total em Cartões: R$ 0,00
+Total em Vendas: R$ 241,95

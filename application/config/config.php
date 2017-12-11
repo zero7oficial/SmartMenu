@@ -2,7 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 
-$config['base_url'] = 'http://dev.agencia07.com.br/menfis_imp/';
+$config['base_url'] = 'http://192.168.1.111/smartmenu/';
 $config['index_page'] = 'index.php';
 
 

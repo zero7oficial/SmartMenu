@@ -1,0 +1,10 @@
+PEDIDO RLX302
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+
+Prod: Cachorro Quente Simples | Qntd:1 
+ Obs.: 
+
+Prod: Cachorro Quente Simples | Qntd:1 
+ Obs.: 
+

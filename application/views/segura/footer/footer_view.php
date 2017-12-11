@@ -18,13 +18,13 @@
 				<a href="<?php echo base_url(); ?>index.php/administracao/cardapio"><button class="btn btn-sm btn-warning">
 				LANCHES</button></a> 
 				<a href="<?php echo base_url(); ?>index.php/administracao/bebidas"><button class="btn btn-sm btn-warning">
-				BEBIDAS</button></a>
+				DIVERSOS</button></a> <!--
 				<a href="<?php echo base_url(); ?>index.php/administracao/acompanhamentos"><button class="btn btn-sm btn-warning">
 				ACOMPANHAMENTOS</button></a> 
 				<a href="<?php echo base_url(); ?>index.php/administracao/pizzas"><button class="btn btn-sm btn-warning">
 				PIZZAS</button></a> 
 				<a href="<?php echo base_url(); ?>index.php/administracao/buffet"><button class="btn btn-sm btn-warning">
-				BUFFET'S</button></a>
+				BUFFET'S</button></a> -->
 				<a href="<?php echo base_url(); ?>index.php/administracao/relatorio"><button class="btn btn-sm btn-warning">
 				RELATÓRIO</button></a>
 				<div class="clearfix"> </div>

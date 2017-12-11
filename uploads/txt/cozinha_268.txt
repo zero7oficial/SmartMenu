@@ -1,0 +1,7 @@
+PEDIDO RLX268
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+
+Prod: Cerveja Litrão | Qntd:1 
+ Obs.: 
+

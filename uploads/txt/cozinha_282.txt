@@ -1,0 +1,19 @@
+PEDIDO RLX282
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+
+Prod: X-Burguer (Linha Sabores) | Qntd:1 
+ Obs.: 
+
+Prod: X-Burguer (Linha Sabores) | Qntd:1 
+ Obs.: 
+
+Prod: X-Burguer (Linha Sabores) | Qntd:1 
+ Obs.: 
+
+Prod: X-Burguer (Linha Sabores) | Qntd:1 
+ Obs.: 
+
+Prod: Combo Linha Sabores 1 | Qntd:1 
+ Obs.: 
+

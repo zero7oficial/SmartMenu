@@ -1,0 +1,22 @@
+PEDIDO RLX301
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+
+Prod: X-Burguer (Linha Sabores) | Qntd:1 
+ Obs.: 
+
+Prod: Baurú | Qntd:1 
+ Obs.: 
+
+Prod: X-Coração | Qntd:1 
+ Obs.: 
+
+Prod: Cachorro Quente Completo | Qntd:1 
+ Obs.: 
+
+Prod: Cachorro Quente Completo | Qntd:1 
+ Obs.: 
+
+Prod: Cachorro Quente Completo | Qntd:1 
+ Obs.: 
+

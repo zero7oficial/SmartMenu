@@ -1,0 +1,7 @@
+PEDIDO RLX243
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+
+Prod: Mini X-Burguer Simples | Qntd:1 
+ Obs.: Sem salada
+

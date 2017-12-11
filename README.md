@@ -8,7 +8,8 @@ O sistema conta com:
 - Visualização Cardápio em Smartphones
 - Gestão de Caixa e Preços dos produtos
 - Atendimento de Frente de Caixa (Ponto de Venda)
+-
 
 Maiores Informaçoes contato@agencia07.com.br
 
-Zero7 está a venda com sua carteira de clientes e aplicações criadas. Interessados, por favor entrar em contato!
+Zero7 está a venda com sua carteira de clientes e aplicações criadas. Interessados, por favor entrar em contato! 

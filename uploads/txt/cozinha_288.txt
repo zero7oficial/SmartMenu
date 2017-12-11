@@ -1,0 +1,25 @@
+PEDIDO RLX288
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+
+Prod: X-Burguer (Linha Sabores) | Qntd:1 
+ Obs.: 
+
+Prod: X-Burguer (Linha Sabores) | Qntd:1 
+ Obs.: 
+
+Prod: X-Burguer (Linha Sabores) | Qntd:1 
+ Obs.: 
+
+Prod: X-Burguer (Linha Sabores) | Qntd:1 
+ Obs.: 
+
+Prod: X-Burguer (Linha Sabores) | Qntd:1 
+ Obs.: 
+
+Prod: X-Burguer (Linha Sabores) | Qntd:1 
+ Obs.: 
+
+Prod: Baurú | Qntd:1 
+ Obs.: 
+

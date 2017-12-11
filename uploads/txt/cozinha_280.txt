@@ -1,0 +1,10 @@
+PEDIDO RLX280
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+
+Prod: Cachorro Quente Completo | Qntd:1 
+ Obs.: 
+
+Prod: Refrigerante 2 Litros | Qntd:1 
+ Obs.: 
+

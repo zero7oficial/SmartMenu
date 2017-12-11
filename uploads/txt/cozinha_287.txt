@@ -1,0 +1,16 @@
+PEDIDO RLX287
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+
+Prod: X-Burguer (Linha Sabores) | Qntd:1 
+ Obs.: 
+
+Prod: X-FiléBacon (Linha Sabores) | Qntd:1 
+ Obs.: 
+
+Prod: Fritas Linha Sabores (50g) | Qntd:1 
+ Obs.: 
+
+Prod: X-Tudo | Qntd:1 
+ Obs.: 
+

@@ -46,6 +46,13 @@
 					$qntd = $dados_bebidas[0]->qntd;
 					echo $qntd;
 					?>"/>
+
+					<label for="preco">Custo do Produto:</label><br/>
+					<input type="text" name="custo" id="custo" class="form-control" value="<?php
+					$this->load->helper("funcoes");
+					$custo = $dados_bebidas[0]->custo;
+					echo  formata_preco($custo);
+					?>"/>
 					
 					<label for="descricao">Descricao (Restante: <span id="contador">200</span>):</label><br/>
 					<textarea class="form-control" onkeyup="limitaTextarea(this.value)" id="descricao texto" name="descricao">

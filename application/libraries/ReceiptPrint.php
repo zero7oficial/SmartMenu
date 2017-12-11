@@ -109,7 +109,7 @@ class ReceiptPrint {
           $this->add_line("Peça também pelo WhatsApp 98108-5010");
           $this->add_line(); // blank line
           $this->add_line("Obrigado pela preferência! Boa Sorte!");
-          $this->add_line(); // blank line
+          $this->add_line(); // blank line'1    
           $this->printer->cut();
           $this->printer->close();
     }
@@ -130,10 +130,7 @@ class ReceiptPrint {
     {
       $this->check_connection();
       $this->printer->setJustification(Printer::JUSTIFY_CENTER);
-      $img_logo = EscposImage::load(__DIR__."\logo.png", true);
-      $this->printer->selectPrintMode(Printer::MODE_DOUBLE_WIDTH);
-      $this->printer->graphics($img_logo);
-      $this->add_line("VIA COZINHA");
+      $this->add_line("VIA DA COZINHA");
       $this->add_line(date('Y-m-d H:i:s'));
       $this->printer->selectPrintMode();
       $this->add_line(); // blank line

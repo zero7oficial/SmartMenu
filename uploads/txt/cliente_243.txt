@@ -1,0 +1,12 @@
+Pedido 
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+Valor R$ 0,00
+ 
+Prod: Mini X-Burguer Simples | Qntd:1 
+ Obs.: Sem salada
+Valor R$ 3,50
+ 
+VALOR TOTAL: 3,50
+TELE-ENTREGA 
+ 

@@ -1,0 +1,24 @@
+Pedido 
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+Valor R$ 0,00
+ 
+Prod: Sacole Diversos Sabores | Qntd:1 
+ Obs.: 
+Valor R$ 1,00
+ 
+Prod: Sacole Diversos Sabores | Qntd:1 
+ Obs.: 
+Valor R$ 1,00
+ 
+Prod: Sacole Diversos Sabores | Qntd:1 
+ Obs.: 
+Valor R$ 1,00
+ 
+Prod: Sacole Diversos Sabores | Qntd:1 
+ Obs.: 
+Valor R$ 1,00
+ 
+VALOR TOTAL: 4,00
+TELE-ENTREGA 
+ 

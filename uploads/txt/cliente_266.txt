@@ -1,0 +1,8 @@
+Pedido 
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+Valor R$ 0,00
+ 
+VALOR TOTAL: 0,00
+TELE-ENTREGA 
+ 

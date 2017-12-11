@@ -71,10 +71,11 @@
 		<div class="col-md-12">
 			<div class="btn-group">
 				<button id="btlanches" type="button" class="btn btn-lg btn-primary">LANCHES</button>
-				<button id="btbebidas" type="button" class="btn btn-lg  btn-danger">BEBIDAS</button>
+				<button id="btbebidas" type="button" class="btn btn-lg  btn-danger">DIVERSOS</button>
+				<!--
 				<button id="btacomp" type="button" class="btn btn-lg  btn-warning">ACOMPANHAMENTOS</button>
 				<button id="btpizza" type="button" class="btn btn-lg  btn-success">PIZZAS</button>
-				<button id="btbuffet" type="button" class="btn btn-lg  btn-info">BUFFETS</button>
+				<button id="btbuffet" type="button" class="btn btn-lg  btn-info">BUFFETS</button> -->
 			</div>
 		</div>
 
@@ -125,7 +126,7 @@
 		<div id="exbebidas" class="hidden col-md-12 col-xs-12">
 			<br />
 			<div class="btn-danger col-md-12 col-xs-12">
-				<h3>BEBIDAS</h3>
+				<h3>DIVERSOS</h3>
 			</div>
 			<br />
 			<div class="col-md-12 col-xs-12">				
@@ -144,7 +145,7 @@
 									<br />
 								<div class="select-style col-md-12">
 								<br />
-									<p>AGORA SELECIONE A BEBIDA</p>										
+									<p>AGORA SELECIONE O PRODUTO</p>										
 											<?php foreach ($bebidas as $row) { 
 												$produtoId 	= $row->ID;
 												$produtoImg = $row->imagem;
@@ -504,6 +505,10 @@
 								<option value="<?php echo $userNome; ?>"> <?php echo $userId; ?> - <?php echo $userNome; ?> </option>
 									<?php } ?>
 							</select>
+							<div class="checkbox">
+								 <label><input type="checkbox" id="impressao" name="impressao" value="sim">IMPRIMIR CUPOM<br /> </label>
+				
+							</div>
 							 <div class="checkbox">
 								 <label><input type="checkbox" id="metodoVal" name="metodo" value="dinheiro"> DINHEIRO<br /> </label>
 								 <label><input type="checkbox" id="metodoVal" name="metodo" value="visa"> CARTÃO<br /></label>
@@ -516,7 +521,7 @@
 					<?php
 						} else {
 
-							echo "<p>Pedido <b>PAGO</b></p>";
+							echo "<p>PEDIDO <b>ENVIADO</b></p>";
 						}
 					 ?>
 	<script type="text/javascript">

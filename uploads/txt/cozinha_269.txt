@@ -1,0 +1,20 @@
+PEDIDO RLX269
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+
+Prod: X-Tudo | Qntd:1 
+ Obs.: 
+
+Prod: Cachorro Quente Completo | Qntd:1 
+ Obs.: 
+
+PEDIDO RLX269
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+
+Prod: X-Tudo | Qntd:1 
+ Obs.: 
+
+Prod: Cachorro Quente Completo | Qntd:1 
+ Obs.: 
+

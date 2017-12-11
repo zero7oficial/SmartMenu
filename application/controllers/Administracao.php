@@ -194,6 +194,7 @@ class Administracao extends CI_Controller {
 				$usuario 			= $session_data['username'];
 				$username 			= $session_data['username'];
 				$clienteId 			= $this->input->get("clienteId");
+				$impressao			= $this->input->get("impressao");
 				$comprador 			= $this->input->get("cliente");
 				$metodo				= $this->input->get('metodo');
 				$recebido			= $this->input->get('totalRec');
@@ -405,17 +406,36 @@ class Administracao extends CI_Controller {
 								$escreve =  fwrite($fp, "TELE-ENTREGA \n ");
 							fclose($fp);
 
+							$fp = fopen("uploads/txt/cozinha_".$clienteId.".txt", "a");
+							$escreve = fwrite($fp, "PEDIDO RLX".$clienteId ."\n");
+								foreach ($comanda as $row) {
+									
+									$ExibeNome = $row->nome;
+									$ExibeQntd = $row->qntd;
+									$exibObs	= $row->observac;
+									$ExibeValor = formata_preco($row->valor);
+									
+									$escreve = fwrite($fp, "Prod: ". $ExibeNome ." | ");
+									$escreve = fwrite($fp, "Qntd:". $ExibeQntd. " \n ");
+									$escreve = fwrite($fp, "Obs.: " .$exibObs. "\n");
+									
+									$escreve = fwrite($fp, "\n");
+										}
+								fclose($fp);
+
 						
 				/** FIM DA GERAÇÃO DO TEXT DE IMPRESSÃO **/
 
 
 				/** IMPRESSÃO - ATIVE  WEB ou SEM **/
-					//IMPRESSÃO ETHERNET EPSON
-					redirect('administracao/imprimiCabe/'. $clienteId);
-
-					//SEM IMPRESSÃO PARA DEMONSTRAÇÃO
-					//redirect('administracao/alacarte/'.$clienteId);
-
+					
+					if($impressao == "sim"){
+						//IMPRESSÃO ETHERNET EPSON
+						redirect('administracao/imprimiCabe/'. $clienteId);
+					}else{
+						//SEM IMPRESSÃO PARA DEMONSTRAÇÃO
+						redirect('administracao/alacarte/'.$clienteId);
+					}
 			}else{			
 
 				redirect('login', 'refresh');
@@ -442,11 +462,25 @@ class Administracao extends CI_Controller {
   		
 	  		if ($this == TRUE) {
 
-	  			redirect('administracao/alacarte/'.$clienteId);
-	  		}
+	  			redirect('administracao/imprimiCozinha/'.$clienteId);
+			  }
+			  
 		}
 
+		function imprimiCozinha($clienteId){
+			$textoFinal = file_get_contents("uploads/txt/cozinha_".$clienteId.".txt");
+	  		$this->load->library('ReceiptPrint');
+	  		$this->receiptprint->connect_2('USB');
+	  		$this->receiptprint->print_via_cozinha($textoFinal);  		
+  		
+	  		if ($this == TRUE) {
+
+	  			redirect('administracao/alacarte/'.$clienteId);
+			  }
+			}
+
 	#FIM FUNÇÃO PAGAMENTO
+
 	function delItemCom(){
 
 		if ($this->session->userdata('logged_in')) 
@@ -1152,7 +1186,6 @@ class Administracao extends CI_Controller {
 				redirect('login', 'refresh');
 			}
 		}
-		
 
 		function deletarP($ID)
 		{
@@ -1230,7 +1263,7 @@ class Administracao extends CI_Controller {
 		}
 	/** FIM DE OUTROS DETALHES **/
 
-	/** INICIO  FUNÇÕES DE INSERÇÃO DE CARDÁPIO  **/
+	/** INICIO  Colocando produtos no CARDÁPIO  **/
 		/** INICIO DA FUNÇÃO PRODUTOS NO SMARTMENU **/
 			# Versão 1.0
 			function cardapio()
@@ -2005,10 +2038,11 @@ class Administracao extends CI_Controller {
 					$descricao 	= $_REQUEST['descricao'];
 					$preco		= str_replace(',', '', $_REQUEST['preco']);
 					$qntd 		= $_REQUEST['qntd'];
+					$custo		= str_replace(',', '', $_REQUEST['custo']);
 					$imagem		= 'AZ7_PADRAO';
 
 					$this->load->model('Bebidas_model');
-					$this->Bebidas_model->inserir($titulo, $descricao, $preco, $qntd, $imagem);
+					$this->Bebidas_model->inserir($titulo, $descricao, $preco, $qntd, $custo, $imagem);
 					if ($this == false) {
 						
 						$data['msg'] = '<div class="alert alert-danger" ><b>ERRO!</b> Não foi possivel cadastrar!</div>';
@@ -2256,6 +2290,7 @@ class Administracao extends CI_Controller {
 						$data['titulo'] 	= ucwords($this->input->post('titulo'));
 						$data['preco'] 		= str_replace(',', '', $this->input->post('preco'));
 						$data['qntd'] 		= $this->input->post('qntd');
+						$data['custo'] 		= str_replace(',', '', $this->input->post('custo'));
 						$data['descricao'] 	= ucwords($this->input->post('descricao'));
 				 
 				 		/* Carrega o modelo */
@@ -2934,7 +2969,7 @@ class Administracao extends CI_Controller {
 
 		/** FIM DA FUNÇÃO ACOMPANHAMENTOS NO SMARTMENU **/
 
-	/** FIM DAS FUNÇÕES DE INSERÇÃO DE CARDÁPIO  **/
+	/** FIM Colocando produtos no CARDÁPIO  **/
 
 	/** INICIO FUNÇÃO CAIXA E GESTÃO **/
 		function caixa()
@@ -3816,7 +3851,7 @@ class Administracao extends CI_Controller {
 		}
 	/** FIM DA FUNÇÃO MESAS **/
 
-	/** INICIO FUNÇÃO DE RELATÓRIOS DE VENDAS v. 1.0 */
+	/** INICIO FUNÇÃO DE RELATÓRIOS v. 1.0 */
 		function relatorio()
 		{
 			if ($this->session->userdata('logged_in')) 
@@ -3976,7 +4011,7 @@ class Administracao extends CI_Controller {
 	  			redirect('administracao');
 	  		}
 		}
-	/** FIM FUNÇÃO DE RELATÓRIOS DE VENDAS v. 1.0 */
+	/** FIM FUNÇÃO DE RELATÓRIOS v. 1.0 */
 	
 	/** INICIO FUNÇÃO VISUALIZAÇÃO AUTOMÁTICA DE PRODUTOS PRONTOS **/
 		function pool()

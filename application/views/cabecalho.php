@@ -21,11 +21,11 @@
 		<!--INICIO ROW -->
 			<div class="row">
 				<div class="col-md-12 col-xs-12">
-					<div class="col-md-3 col-xs-12"><img src="<?php echo base_url(); ?>uploads/layout/logo.png" class="img-responsive center-block"/></div>
+					<div class="col-md-3 col-xs-12"><img src="<?php echo base_url(); ?>uploads/layout/logo_final.png" width="35%" class="img-responsive center-block"/></div>
 
 					<div id="perfil" class="col-md-9 col-xs-12"><!-- Inicio do Perfil -->
 						<div class="col-lg-12">
-									<h3 class="txt-direita"><b>FENADOCE DIGITAL</b></h3>
+									<h3 class="txt-direita"><b>ROLE LANCHES E CONVENIÊNCIAS</b></h3>
 									<h4>SEU TICKET: <b><?php echo $codeEmpresa; ?><?php echo $pedID; ?></b></h4>
 									<p><?php echo $mensEmpresa; ?>.</p>
 						</div>

@@ -1,0 +1,10 @@
+PEDIDO RLX286
+Prod: Ticket Visitante | Qntd:1 
+ Obs.: 
+
+Prod: Baurú | Qntd:1 
+ Obs.: 
+
+Prod: Refrigerante Mini | Qntd:1 
+ Obs.: 
+
