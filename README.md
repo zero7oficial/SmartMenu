@@ -8,7 +8,7 @@ O sistema conta com:
 - Visualização Cardápio em Smartphones
 - Gestão de Caixa e Preços dos produtos
 - Atendimento de Frente de Caixa (Ponto de Venda)
--
+- Visualização Tickets prontos Praça de Alimentação
 
 Maiores Informaçoes contato@agencia07.com.br
 
